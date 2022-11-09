@@ -1,5 +1,21 @@
 # Training.jl
 
+## Installation Instructions
+
+- From the Julia REPL:
+
+```julia
+using Pkg
+
+Pkg.add(url="https://github.com/JuliaComputing/Training.jl", rev="main")
+```
+
+- From the command line:
+
+```shell
+julia -e 'using Pkg; Pkg.add(url="https://github.com/JuliaComputing/Training.jl", rev="main")'
+```
+
 
 ## Agenda
 
