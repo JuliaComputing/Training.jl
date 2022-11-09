@@ -1,5 +1,9 @@
 # Training.jl
 
+## Requirements
+
+- Julia 1.8.2
+
 ## Installation Instructions
 
 - From the Julia REPL:
