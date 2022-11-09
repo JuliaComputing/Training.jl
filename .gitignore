@@ -1,1 +1,3 @@
 /Manifest.toml
+jupyter_notebooks
+*.ipynb_checkpoints
