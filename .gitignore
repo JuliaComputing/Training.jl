@@ -4,3 +4,4 @@ jupyter_notebooks
 *.png
 *.csv
 *ne_110m_admin*
+*.log
