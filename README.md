@@ -11,13 +11,13 @@
 ```julia
 using Pkg
 
-Pkg.add(url="https://github.com/JuliaComputing/Training.jl", rev="main")
+Pkg.develop(url="https://github.com/JuliaComputing/Training.jl")
 ```
 
 - From the command line:
 
 ```shell
-julia -e 'using Pkg; Pkg.add(url="https://github.com/JuliaComputing/Training.jl", rev="main")'
+julia -e 'using Pkg; Pkg.develop(url="https://github.com/JuliaComputing/Training.jl")'
 ```
 
 
