@@ -12,17 +12,7 @@
 using Pkg
 
 Pkg.develop(url="https://github.com/JuliaComputing/Training.jl")
-```
 
-- From the command line:
-
-```shell
-julia -e 'using Pkg; Pkg.develop(url="https://github.com/JuliaComputing/Training.jl")'
-```
-
-## Running the notebooks
-
-```julia
 using Training
 
 run_pluto()
